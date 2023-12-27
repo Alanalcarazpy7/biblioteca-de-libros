@@ -1,0 +1,11 @@
+@import "componentes/Navbar";
+@import "base/settings";
+@import "componentes/libros";
+@import "pages/home";
+@import "componentes/input-text";
+@import "pages/create";
+@import "pages/view.scss";
+
+body{
+  background-color: $main-color;
+}

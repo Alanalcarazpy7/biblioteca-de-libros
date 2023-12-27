@@ -1,0 +1,13 @@
+.contenedor-create{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  .button-create{
+    background-color: $button-create-color;
+    text-decoration: none;
+    outline: none;
+  }
+}

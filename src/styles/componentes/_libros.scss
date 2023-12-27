@@ -1,0 +1,19 @@
+.contenedor-libros {
+  margin: 2rem 4rem;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+
+  img{
+    width:220px;
+    height: 300px;
+
+    margin: 0 2rem;
+  }
+  .text{
+    margin: 0.5rem 0;
+    color: white;
+  }
+}

@@ -1,0 +1,18 @@
+@import "../base/settings";
+
+.contenedor-navbar{
+  display: flex;
+  background-color: $navbar-color;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  font-size: 18px;
+  h4{
+    margin: 1rem;
+  }
+  .link{
+    color: white;
+    text-decoration: none;
+  }
+}

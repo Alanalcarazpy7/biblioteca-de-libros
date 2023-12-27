@@ -1,0 +1,13 @@
+.contenedor-info-libro{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: white;
+  margin: 4rem;
+  .contenedor-info{
+    margin-left: 3rem;
+  }
+  h2{
+    margin-top: 0;
+  }
+}
